@@ -10,10 +10,13 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-page -d build"
+    
   },
+  "homepage": "https://chunhoyung.github.io/COMP2156",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chunhoyung/COMP2156.git"
+    
   },
   "keywords": [],
   "author": "",
